@@ -1,0 +1,14 @@
+name: null
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pip
+- jupyter
+- numpy
+- pandas
+- matplotlib
+- openpyxl
+- xlrd
+- wordcloud
+- folium
